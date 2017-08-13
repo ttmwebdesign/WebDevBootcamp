@@ -1,0 +1,22 @@
+{
+  "name": "WebDevBootcamp",
+  "version": "1.0.0",
+  "description": "Projects from the Web Developer Bootcamp on udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttmwebdesign/WebDevBootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttmwebdesign/WebDevBootcamp/issues"
+  },
+  "homepage": "https://github.com/ttmwebdesign/WebDevBootcamp#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
